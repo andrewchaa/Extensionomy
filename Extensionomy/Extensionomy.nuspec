@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <licenseUrl>MIT</licenseUrl>
+    <id>ArchwaySoft.Utilities.Extensionomy</id>
+    <version>0.0.1.1</version>
+    <title>Extensionomy</title>
+    <authors>Andrew Chaa</authors>
+    <owners>Andrew Chaa</owners>
+    <licenseUrl>http://opensource.org/licenses/MS-PL</licenseUrl>
     <projectUrl>https://github.com/andrewchaa/Extensionomy</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/andrewchaa/Extensionomy/master/extensionomy.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Collection of Useful Extension Methods</description>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright 2017</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>Extension Methods, Helpers</tags>
   </metadata>
 </package>
